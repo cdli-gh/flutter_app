@@ -11,6 +11,7 @@ Currently, We are having cdli Android App published on playstore. We are expandi
 ---
 
 ### GIF
+<img src="https://github.com/cdli-gh/flutter_app/raw/master/docs/gif.gif" width="200" height="400" />
 
 ---
 
