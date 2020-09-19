@@ -61,7 +61,7 @@ We have the following branches
 
 ## License
 
-This project is will be licensed under the GNU General Public License v3. A copy of [LICENSE]() is to be present along with the source code.
+This project is will be licensed under the GNU General Public License v3. A copy of [LICENSE](https://www.gnu.org/licenses/gpl-3.0.en.html) is to be present along with the source code.
 
 ---
 
